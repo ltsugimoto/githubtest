@@ -7,5 +7,3 @@ hoge
 hoge
 
 hoge
-
-am
